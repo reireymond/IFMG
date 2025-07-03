@@ -13,6 +13,8 @@ echo.
 :: Entrar com o número do capítulo
 set /p CAPITULO=Digite o numero do capitulo (ex: 08): 
 
+echo.
+
 :: Entrar com o nome completo
 set /p NOME=Digite o nome e sobrenome: 
 
